@@ -14,5 +14,10 @@
     </properties>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>db</module>
+        <module>api</module>
+        <module>service</module>
+    </modules>
 
 </project>
